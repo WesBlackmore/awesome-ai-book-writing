@@ -153,7 +153,7 @@ Two honest warnings. First, no tool replaces judgment: knowing which scene earns
 
 ## Communities
 
-- [r/WritingWithAI](https://www.reddit.com/r/VibePublishing/) - Publish books with AI, indie publishers KDP focused. 
+- [r/VibePublishing](https://www.reddit.com/r/VibePublishing/) - Publish books with AI, indie publishers KDP focused. 
 - [r/WritingWithAI](https://www.reddit.com/r/WritingWithAI/) - The main hub for AI-assisted writing discussion.
 - [r/selfpublish](https://www.reddit.com/r/selfpublish/) - Indie publishing, business-focused.
 - [r/KDP](https://www.reddit.com/r/KDP/) - Amazon-specific publishing questions.
