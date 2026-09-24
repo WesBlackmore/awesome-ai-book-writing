@@ -40,6 +40,7 @@ Tools that produce a complete manuscript rather than paragraphs or scenes. This 
 Tools you write *with*, paragraph by paragraph, rather than tools that hand you a draft.
 
 - **[NovelCrafter](https://www.novelcrafter.com)** - Codex-based worldbuilding, scene-by-scene drafting, bring your own model key. Extremely popular with serious indie authors who want control over prompts and cost.
+- **[AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)** - Open-source Windows/macOS desktop workspace for planning characters, worldbuilding and chapter outlines, then drafting, reviewing and revising a novel; supports local Ollama models.
 - **[Dabble](https://www.dabblewriter.com)** - Novel-writing software with plotting tools and AI features layered on a clean writing environment.
 - **[LivingWriter](https://livingwriter.com)** - Story-element tracking with AI assistance, template-driven for common story structures.
 - **[Ellipsus](https://ellipsus.com)** - Collaborative drafting environment, notable for an explicitly writer-first stance on AI.
